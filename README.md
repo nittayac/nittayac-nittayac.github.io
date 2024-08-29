@@ -9,5 +9,5 @@
 #### 🎏 [Ecommerce](https://github.com/nittayac/MVCSmallFarm)
 >E-commerce application developed with MVC .NET Core 8 and SQL Server. It provides essential features such as product catalogue management, shopping cart functionality, secure user authentication and order processing. 
 
-#### 🌠 Crime Prediction in London
+#### 🌠 [Crime Prediction in London]()
 A data-driven project focused on analysing crime patterns and predicting future crime events in the London area. Built using Python, Pandas, NumPy, and Matplotlib, the system processes large datasets to extract insights and apply machine learning techniques for predictive modelling
