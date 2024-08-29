@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/e292f6a8-5bb5-4909-af46-b04ea4cf4611)# Welcome to My Landing Page
-## This is a simple landing page hosted on GitHub Pages.  
+# Welcome to My Landing Page
+## A simple yet effective landing page hosted on GitHub Pages designed to showcase and collect personal projects. It serves as a hub for exploring various development projects ranging from web applications to data analytics and machine learning.
 ### Get Started  😊
 
 #### 🔑 [User management](https://github.com/nittayac/Identitymanager)
