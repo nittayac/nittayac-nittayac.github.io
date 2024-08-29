@@ -7,3 +7,4 @@
 
 
 #### 🎏 [Ecommerce](https://github.com/nittayac/MVCSmallFarm)
+>E-commerce application developed with MVC .NET Core 8 and SQL Server. It provides essential features such as product catalogue management, shopping cart functionality, secure user authentication and order processing. 
