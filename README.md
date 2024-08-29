@@ -20,3 +20,6 @@
             <p>A brief description of Project 3 goes here. Describe how it benefits users or solves a problem.</p>
         </div>
     </div>
+
+
+[Like it so far? Follow me on GitHub](https://github.com/im-luka)
