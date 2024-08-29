@@ -24,6 +24,6 @@
 
 
 # Welcome to My Landing Page
-## This is a simple landing page hosted on GitHub Pages.
-### Get Started
+## This is a simple landing page hosted on GitHub Pages.  
+### Get Started  :blush:
 [Like it so far? Follow me on GitHub](https://github.com/im-luka)
